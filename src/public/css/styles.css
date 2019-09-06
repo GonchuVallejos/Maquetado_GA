@@ -1,0 +1,83 @@
+body{
+    background: #ffffff;
+    font-family: 'Lexend Deca', sans-serif;
+    overflow: hidden;
+}
+
+.index{
+    padding-top: 10px;
+    
+}
+
+/* FOOTER*/
+footer
+{
+   padding-top: 20px;
+   font-family: 'Lexend Deca', sans-serif;
+}
+
+.footer-top
+{
+    background: url(../img/silueta_footer.png);
+    height: 150px;
+    background-repeat: repeat-x;
+    background-size: 850px;
+    background-position-x: 50%;
+}
+
+.footer-bottom
+{
+    display: table;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    background: linear-gradient(to bottom, #801A1C 0%, #DD3A5D 100%);
+}
+
+.footer-bottom hr
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid #eeee
+}
+
+footer h4{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.contacto-footer
+{
+    max-width: 300px;
+    margin: auto;
+}
+
+.contacto-footer h4{
+    text-align: left;
+    line-height: 1.4;
+}
+
+footer h5{
+    color: #ddd;
+    font-size: 1.3em;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+footer .copyright
+{
+    background-color: #dd3a5d;
+    font-size: 1.1em;
+    color: #fefefe;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: lighter;
+}
+/*FIN FOOTER*/
